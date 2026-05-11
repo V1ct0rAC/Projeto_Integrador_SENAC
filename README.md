@@ -12,4 +12,4 @@ O script_banco.sql representa o banco de dados gerado contemplando o modelo UML 
 
 
 
-![UML](image-1.png)
+![UML](image.png)
