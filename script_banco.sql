@@ -44,7 +44,7 @@ CREATE TABLE Fornecedor (
     id_fornecedor INT PRIMARY KEY AUTO_INCREMENT,
     nome_empresa VARCHAR(100) NOT NULL,
     produto VARCHAR(50) NOT NULL,
-    contrato INT NOT NULL,
+    contrato VARCHAR(20) NOT NULL,
     serviço VARCHAR(50) NOT NULL,
     prazo_entrega VARCHAR(10) NOT NULL
     fk_cnpj VARCHAR(18) UNIQUE NOT NULL,
@@ -69,4 +69,4 @@ INSERT INTO PessoaJuridica (razao_social, cnpj)
 VALUES ('Laranjas e Associados LTDA', '12.315.678/0001-99');
 
 INSERT INTO Fornecedor (nome_empresa, produto, contrato, serviço, prazo_entrega, fk_cnpj)
-VALUES ('Tiáo da Laranja', 'Suco de Laranja', 1001, 'Vender Suco de Laranja', '18/05/2026', '12.315.678/0001-99');
+VALUES ('Tiáo da Laranja', 'Suco de Laranja', 'CONT-2024-001', 'Vender Suco de Laranja', '5 dias', '12.315.678/0001-99');
