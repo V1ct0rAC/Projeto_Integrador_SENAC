@@ -1,8 +1,10 @@
-# Projeto_Integrador_SENAC
-#Nome dos integrantes do grupo
+**Projeto Integrador SENAC**
+
+**Nome dos integrantes do grupo**
 
 
-#Apresentação
+**Apresentação**
+
 Tal projeto representa a realização do projeto bintegrador para o curso de ADS do instituto SENAC.
 A primeira etapa do projeto foi o desenvolvimento de um protótipo front end seguindo a UML a seguir:
 ![UML](image.png)
