@@ -13,7 +13,7 @@ Para a realização do protótipo foi utilizado a plataforma figma, logo abaixo 
 https://words-blast-34590257.figma.site/ 
 
 Logo após a realização do protótipo foi realizado a construção de um banco de dados através do MySQL Workbench. 
-Os arquivos a baixos representam o script do MySQL (script_banco.sql) e o outro o script no vscode (sql.PI.sql).
+Os arquivos a baixos representam o script do MySQL (sql.PI.sql) e o outro o script no vscode (script_banco.sql).
 
 
 
